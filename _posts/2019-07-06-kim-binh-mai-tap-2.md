@@ -1,0 +1,27 @@
+---
+author: Tiếu Tiếu Sinh
+categories:
+- Tiểu Thuyết Trung Quốc
+description: Kim Bình Mai - Tập 2
+download_links:
+- info: epub
+  url: https://sachvui.com/download/epub/4379
+- info: mobi
+  url: https://sachvui.com/download/mobi/4380
+- info: pdf
+  url: https://sachvui.com/download/pdf/4381
+image: https://sachvui.com/cover/2017/kim-binh-mai-tap-2.jpg
+layout: post
+permalink: /kim-binh-mai-tap-2.html
+tags:
+- tải sách miễn phí
+- tải sách nhanh
+- tải ebooks miễn phí
+- pdf miễn phí
+- Kim Bình Mai - Tập 2 ebook
+- Kim Bình Mai - Tập 2 pdf
+thumbnail_url: https://sachvui.com/cover/2017/kim-binh-mai-tap-2.jpg
+title: Kim Bình Mai - Tập 2
+---
+
+ <div class="item-desc text-justify"> <p><a href="https://sachvui.com/ebook/kim-binh-mai-tap-1-tieu-tieu-sinh.2175.html">Kim Bình Mai - Tập 1</a> </p><p>Thời Minh, nhất là từ Gia Tĩnh (1522-l566), xã hội tương đối ổn định, kinh tế có chiều phát triển, xu thế đô thị hóa tăng dần, đã tạo điều kiện cho sự ra đời và phát triển của thể loại văn học mới : trường thiên tiểu thuyết. Song hành với điều kiện xã hội đó là sự tiến bộ của kỹ thuật in khắc. Đến thời Vạn Lịch (1573- 1620) đã xuất hiện một cục diện phồn vinh của thể loại này với hàng loạt tác phẩm ngày nay còn được biết.<br><br>Tiểu thuyết Trung Quốc thời này có thể chia làm bốn loại:<br><br><em>Thứ nhất</em>, chiếm số lượng áp đảo là tiểu thuyết lịch sử diễn nghĩa, đại thể phỏng theo Tam quốc chí diễn nghĩa, kể chuyện lịch sử bằng ngôn ngữ thông thường dễ hiểu. Có thể nói, suốt từ Xuân Thu Chiến Quốc đến Minh sơ, tiểu thuyết lịch sử diễn nghĩa thời này đã phủ kín cả chiều dài lịch sử Trung Quốc.<br><br>Trong đó tiêu biểu nhất là Bắc Tống chí - truyện của Hùng Đại Mộc. Nhìn chung loại tiểu thuyết lịch sử diễn nghĩa này miêu tả tính cách nhân vật còn tương đối ít, kết cấu không chặt, tình tiết nhiều lúc thiếu gắn bó, còn câu nệ quá nhiều vào sự thật lịch sử, nghệ thuật còn sơ lược, thường còn nằm trên ranh giới giữa lịch sử với văn học.<br><br><em>Thứ hai</em>, là tiểu thuyết phong thần, tiêu biểu nhất là <strong><em>Phong thần diễn nghĩa</em></strong>. Loại này phần nhiều kể lại những chuyện li kỳ hoang đường, thiếu ý nghĩa xã hội sâu sắc.<br><br><em>Thứ ba,</em> là tiểu thuyết "công án", nổi tiếng nhất là Hải Cương Phong tiên sinh cư quan công án truyện của Lí Xuân Phương, 71 hồi, mỗi hồi kể một chuyện với nhân vật xuyên suốt là người thẩm án Hải Thụy. Về thể tài có thể xem là tổng tập tiểu thuyết bút kí, tựa như tập truyện vụ án.<br><br><em>Thứ tư,</em> là tiểu thuyết "thế tình" (tình đời). Loai này lúc đó còn hiếm, ngày nay được biết chỉ có <strong><em>Kim Bình Mai và Ngọc Kiều Lí</em></strong>, nhưng Ngọc Kiều Lí thì đã thất truyền (Thẩm Đức Phù trong Dã hoạch biên nói ông từng xem Ngọc Kiều Lí). Loại này ngày nay thường được gọi là tiểu thuyết xã hội.<br><br>Trước <em><strong>Hồng lâu mộng</strong></em> hơn một trăm năm, được coi là tác phẩm mở đường cho tiểu thuyết xã hội Trung Quốc. Từ năm 1940, đề tựa cho Bình ngoại chi ngôn của Diêu Linh Tê, Giang Đông Tễ Nguyệt gọi là "tiểu thuyết của tiểu thuyết", còn Ngụy Bệnh Hiệp thì so sánh với tác phẩm của Đickens ở Anh, Sêkhov ở Nga, đồng thời cho rằng Thủy hử kể nhiều võ hiệp, Hồng lâu chuyên nói tình yêu, Nho lâm ngoại sử miêu tả tình thái xã hội - nhưng hạn chế trong đám hủ nho, ý nghĩa xã hội đều không rộng lớn bằng.<br><br>Trong bài <strong><em>Bàn về Hồng lâu mộng</em></strong>, Hà Kì Phương có nhắc đến mối quan hệ giữa <em><strong>Hồng lâu mộng</strong></em> mộng với <strong><em>Kim Bình Mai</em></strong>: <strong><em>"Hồng lâu mộng</em></strong> quả là cái bóng soi ngược hình của Kim Bình Mai. Dĩ nhiên <strong><em>Hồng lâu mộng</em></strong> sinh sau nhưng vượt trội nhiều mặt, đặc biệt là ngôn ngữ văn học đạt tới đỉnh cao của tiểu thuyết cổ điển, rõ ràng không sánh được".<br><br>Ngay cả sau khi bị liệt vào hạng "sách cấm" thì giới văn học vẫn xếp nó vào một trong "tứ đại kì thư" (bốn cuốn sách lớn kì thú) của tiểu thuyết trường thiên Minh Thanh: <strong><em>Tam quốc diễn nghĩa, Thủy hử truyện, Tây du ký và Kim Bình Mai</em></strong>. Tất cả các giáo trình văn học sử ở các trường Đại học Trung Quốc đều giảng và đều công nhận đó là con chim én báo mùa xuân của thể loại truyện dài do cá nhân sáng tác ở Trung Quốc.<br><br><strong><em>Lỗ Tấn</em></strong> nói trong <strong><em>Trung Quốc tiểu thuyết sử lược</em></strong>:<br><br>"<em>Tiểu thuyết lấy chuyện Võ Tòng đánh cọp tìm anh trong Thủy hử truyện làm ngòi dẫn, mượn danh thời Tống để tả thực thời Minh, phản ánh hiện thực xã hội thời Minh" đã được dịch ra nhiều thứ tiếng. Bản dịch sớm nhất là bản Mãn văn khắc in năm Khang Hi 47 (1708), không ghi tên dịch giả, dịch theo bản "Trương Phúc Pha đệ nhất kì thư"</em>.<br><br>Ở phương Tây, sớm nhất là bản dịch hồi thứ nhất của, thực hiện bởi A.P. Bazin:<br><br>Histoire de Wou Song et de KimLien trong Chine moderne (Trung Quốc hiện đại) xuất bản năm 1853. (tiếng Pháp).<br><br>Năm 1927 có bản tiếng Anh Chin Ping Mei, the adventurous of His Menching ở New York.<br><br>Năm 1928 có bản tiếng Đức Djin Ping Me của Oto Kibat. Tiếng Hungari, tiếng Thụy Điển, tiếng Phần Lan đều đã có bản dịch.<br><br>Ở Nhật Bản đã có nhiều bản dịch khác nhau. Bản dịch đầy đủ 100 hồi sớm nhất là của Cương Nam Nhân Kiều in thành 4 tập, hoàn thành đầu thế kỉ này. Năm 1951, có bản dịch của Tiểu Dã Nhẫn và Thiên Điền Cửu Nhất theo nguyên bản từ thoại.</p> </div>

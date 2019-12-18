@@ -1,0 +1,27 @@
+---
+author: Liesl Shurtliff
+categories:
+- Truyên Teen - Tuổi Học Trò
+description: Rump - Cậu Bé Xe Rơm Thành Vàng
+download_links:
+- info: epub
+  url: https://sachvui.com/download/epub/4475
+- info: mobi
+  url: https://sachvui.com/download/mobi/4476
+- info: pdf
+  url: https://sachvui.com/download/pdf/4477
+image: https://sachvui.com/cover/2017/rump-cau-be-xe-rom-thanh-vang.jpg
+layout: post
+permalink: /rump-cau-be-xe-rom-thanh-vang.html
+tags:
+- tải sách miễn phí
+- tải sách nhanh
+- tải ebooks miễn phí
+- pdf miễn phí
+- Rump - Cậu Bé Xe Rơm Thành Vàng ebook
+- Rump - Cậu Bé Xe Rơm Thành Vàng pdf
+thumbnail_url: https://sachvui.com/cover/2017/rump-cau-be-xe-rom-thanh-vang.jpg
+title: Rump - Cậu Bé Xe Rơm Thành Vàng
+---
+
+ <div class="item-desc text-justify"> <p>Rumpelstiltskin là cuốn truyện cổ tích kể về cuộc đời của cậu bé Rump (mông), cậu bé khi sinh ra đã thiếu một cái tên hoàn chỉnh và phải sống trong một vương quốc đầy ma thuật - nơi mà người ta nghĩ cái tên sẽ ứng với số phận. Ngay từ khi sinh ra Rump (mông) đã chịu thiệt thòi hơn người khác, mẹ bé mất sớm và trước khi mất mẹ cậu bé chỉ kịp nói một nửa cái tên của cậu - Rump, kể từ đó cậu bé gắn liền với cái tên Rump (mông) xấu xí và trở thành trò cười của mọi người. Thế nhưng cuộc đời đã thay đổi kể từ khi cậu bé tìm thấy bánh xe quay cũ của mẹ cậu để lại - cái bánh xe có thể giúp cậu biến những sợi rơm thành vàng. Thế nhưng với mỗi vòng quay bánh xe, cậu bé lại dần dấn thân vào những lời nguyền ma quỷ. Để từ bỏ những lời nguyền đó, Rum phải thực hiện những nhiệm vụ nguy hiểm, cậu bé phải chiến đấu với pixies, trolls, táo độc và một nữ hoàng ác độc. Nhưng bằng lòng dũng cảm, sự tự tin và một niềm đam mê mạo hiểm cậu bé đã chiến thắng mọi thế lực tàn ác.<br><br>Rumpelstiltskin là một cuốn sách hấp dẫn và thu hút độc giả ở mọi lựa tuổi, nó không chỉ đem lại cho bạn tiếng cười sảng khoái sau những giờ làm việc căng thẳng mà nó còn mang một giá trị nhân văn sâu sắc. Số phận của chúng ta không gắn liền với cái tên, chỉ cần chúng ta niềm tin vào bản thân và niềm tin vào cuộc sống thì chúng ta sẽ chinh phục được mọi khó khăn và vượt qua được những chông gai và trở ngại của cuộc sống. Đây là cuốn truyện cổ tích hấp dẫn mà tất cả chúng ta nên đọc, bởi chính nội dung của cuốn sách sẽ đem đến cho chúng ta những bài học sâu sắc về cuộc đời.</p><p>***</p><p>Liesl Shurtliff sinh ra và lớn lên ở thành phố Salt Lake của Hoa Kỳ, bà là một người thích nghịch lý, chơi chữ và thích những con lợn đất màu hồng. Bà từng nhận được giải thưởng của Hiệp hội quốc tế thiếu nhi và giải thưởng của Hiệp hội sách Young Adult. Bà là tác giả của nhiều cuốn truyện cổ tích dành cho thiếu nhi: Rumpelstilskin, Jack và cây đậu thần, Câu chuyện thật của Red Riding Hood Liest… Rump - Cậu Bé Xe Rơm Thành Vàng (Rumpelstilskin) là một câu chuyện cổ tích kinh điển, nó được bình chọn là cuốn sách bán chạy nhất năm của New York Time.</p><p>***</p><p>Cái tên mẹ đặt cho tôi có nghĩa là mông bò<a href="https://www.dtv-ebook.com/Text/Endnotes.xhtml#n100">(1)</a>. Nó đã trở thành câu chuyện cười rất được ưa chuộng trong làng, và có lẽ cũng là duy nhất, nhưng nó không thật sự chính xác. Ít nhất, tôi không tin nó là sự thật và nội cũng thế. Thật ra mẹ tôi đã đặt cho tôi một cái tên khác, một cái tên tuyệt vời, nhưng chưa ai từng được nghe. Mọi người chỉ được nghe phần đầu tiên - phần xấu xí nhất.</p><p>Khi sinh tôi mẹ đã rất ốm yếu. Nội kể rằng hồi ấy mẹ bị sốt và ho, vì thế mà tôi bị sinh non. Tuy nhiên, mẹ vẫn ôm tôi vào lòng và thì thầm nói cho tôi biết tên của mình. Không ai nghe thấy, ngoại trừ tôi.</p><p>“Tên thằng bé là gì?” Nội hỏi. “Nói mẹ nghe tên nó.”</p><p>“Tên thằng bé là Rump... Khụ khụ khụ...” Nội đưa cho mẹ một cốc nước ấm để uống và đón lấy tôi từ tay mẹ.</p><p>“Cho mẹ biết tên đầy đủ của thằng bé đi, Anna.”</p><p>Nhưng mẹ không còn đủ sức để làm được điều đó nữa. Mẹ hít một hơi thật sâu rồi thở hắt ra toàn bộ lượng không khí và không hít thở nữa. Không bao giờ.</p><p>Nội kể lúc ấy tôi đã khóc ré lên, nhưng tôi không bao giờ nghe được tiếng khóc ấy trong tâm tưởng của mình. Tất cả những gì tôi nghe thấy chỉ là thinh lặng. Không một cử động hay hơi thở. Ngọn lửa cũng không lép bép và bầy tiên tí hon cũng lặng im.</p><p>Cuối cùng, Nội ẵm tôi lên và nói, “Rump! Tên đứa bé là Rump.”</p><p>Sáng hôm sau, chuông trong làng ngân vang và lũ quỷ lùn chạy khắp vùng Ngọn Núi hô lên: “Rump, Rump! Tên đứa bé mới sinh là Rump!”</p><p>Tên tôi không thể thay đổi cũng như rút lại, bởi lẽ ở Vương Quốc, cái tên không chỉ là thứ mà mọi người gọi bạn. Cái tên còn mang rất nhiều ý nghĩa và quyền lực. Tên gọi chính là vận mệnh.</p><p>Vận mệnh của tôi thật là tồi tệ.</p><p>Lên tám tuổi tôi ngừng lớn. Cơ thể tôi quá còi cọc và phải khó khăn lắm mới có thể làm việc. Bà mụ Gertrude nói, sở dĩ tôi nhỏ bé như vậy là bởi tôi lớn lên bằng sữa của một con dê yếu ớt thay vì một bà mẹ khỏe mạnh, nhưng tôi biết sự thật nằm ở cái tên của mình. Bạn không thể trưởng thành nếu như không có một cái tên đầy đủ.</p> </div>

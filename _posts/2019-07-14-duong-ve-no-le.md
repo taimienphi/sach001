@@ -1,0 +1,27 @@
+---
+author: F. A. Hayek
+categories:
+- Triết Học
+description: Đường Về Nô Lệ
+download_links:
+- info: pdf
+  url: https://sachvui.com/download/pdf/1931
+- info: epub
+  url: https://sachvui.com/download/epub/1932
+- info: mobi
+  url: https://sachvui.com/download/mobi/1933
+image: https://sachvui.com/cover/2015/duong-ve-no-le.jpg
+layout: post
+permalink: /duong-ve-no-le.html
+tags:
+- tải sách miễn phí
+- tải sách nhanh
+- tải ebooks miễn phí
+- pdf miễn phí
+- Đường Về Nô Lệ ebook
+- Đường Về Nô Lệ pdf
+thumbnail_url: https://sachvui.com/cover/2015/duong-ve-no-le.jpg
+title: Đường Về Nô Lệ
+---
+
+ <div class="item-desc text-justify"> <p>Việt Nam đã bắt đầu từ bỏ cơ chế kế hoạch hoá tập trung quan liêu bao cấp được hơn hai thập kỷ. So sánh những kết quả đạt được giữa hai thời kỳ trước và sau khi đổi mới đã cho thấy rằng quyết định chuyển sang cơ chế thị trường của Việt Nam là quyết định hoàn toàn đúng đắn. Đời sống vật chất và tinh thần của từng người dân không ngừng được cải thiện. Những vật dụng được xem như là xa xỉ thời kế hoạch hoá như máy, ti vi, dầu gọi đầu v.v… thì nay đã trở thành những vật dụng tối thiểu trong mỗi gia đình; trước kia người dân Việt Nam chỉ có thể biết được tin tức thế giới qua hệ thống loa truyền thanh, thì ngày nay họ có thể tìm hiểu mọi thứ qua Internet, truyền hình cáp, và thậm chí có thể đi hàng nghìn cây số đến tận nơi để quan sát. Tuy thế, những di chứng mà cơ chế này gây ra cho xã hội vẫn còn đó và đang gây nhức nhối cho xã hội. Đây không phải là nhận định được nói ra bởi những người dân thường hay các học giả; trên thực tế nó thường xuyên được những vị lãnh đạo cao cấp nhất của đất nước nhắc đến. Nhưng cụ thể cơ chế kế hoạch hoá trước kia đã gây ra nhưng căn bệnh xã hội gì cho hiện nay? Làm thế nào để khắc phục được chúng? Đấy quả thực là những câu hỏi hóc búa cho bất kỳ ai có trách nhiệm với xã hội. Cuốn sách Đường về nô lệ của F. A. Hayek, một trong những kinh tế gia và tư tưởng gia xuất sắc nhất của thế kỷ XX, có thể được xem như là cuốn “cẩm nang” hàng đầu để giải quyết những vấn nạn này cho xã hội Việt Nam hôm nay.</p><p>Những khó khăn mà người Việt Nam chúng ta đã trải nghiệm trong thời kỳ kế hoạch hoá đã được Hayek nhìn thấy trước từ cách đây hơn 60 năm khi ông cảnh báo những hậu quả xấu nhất có thể xảy ra cho nước Anh nếu đất nước này áp dụng cơ chế hoạch định tập trung sau thế chiến II. Khi phương tiện sản xuất bị quốc hữu hoá, cơ chế giá cả bị xoá bỏ, và mọi thứ đều phải tuân theo những kế hoạch cứng nhắc do trung ương áp đặt xuống thì động lực sáng tạo của các cá nhân sẽ bị mai một, trí tuệ các nhân sẽ không được khai thác, chi phí cho hệ thống quan liêu cồng kềnh ngày một phình to, nguồn lực sẽ bị phân bổ vào những lĩnh vực không hiệu quả, và hậu quả tất yếu là nền kinh tế của quốc gia sẽ bị suy yếu, đời sống của dân chúng bị sút kém, và bất mãn trong xã hội ngày càng tăng. Những gì nền kinh tế Việt Nam phải trải qua trong giai đoạn áp dụng cơ chế kế hoạch hoá tập trung trước khi đổi mới, chẳng hạn khan hiếm lương thực thực phẩm - điều khó có thể tưởng tượng được một đất nước được xem là vựa lúa của thế giới, có lẽ là minh chứng rõ ràng nhất cho những tiên đoán của Heyek trên khía cạnh này.</p><p>Nhưng kinh tế không phải là lĩnh vực duy nhất là cơ chế kế hoạch hoá tập trung gây ra hệ quả xấu. Thực ra trong cuốn Đường về nô lệ, Hayek chỉ điểm qua các tác động thuần tuý kinh tế của cơ chế này. Ông chỉ ra rằng trong cuộc sống không thể tách rời “động cơ kinh tế” ra khỏi các mục tiêu khác mà con người muốn hướng tới vì một khi chúng ta không có cơ hội đạt mục tiêu khác. Khi cơ chế kế hoạch hoá tập trung ngăn cản các cá nhân quyền tự tìm kiếm thu nhập và sử dụng tài sản của mình cho những mục đích riêng tư tất dẫn đến những tác động tiêu cực về mặt đạo đức, thái độ, lối sống và cách ứng xử của con người, mặc dù sự thay đổi này diễn ra từ từ và gần như không thể nhận ra được. Kế hoạch hoá tập trung khiến cho người ta chỉ biết phục tùng, mất khả năng tư duy độc lập và rỗng rập khuôn; khiến cho người ta sợ chịu trách nhiệm cá nhân, kích thích lối sống ỷ lại, dựa dẫm vào người khác; khiến cho người ta mất động lực vươn lên và thay vào đó là tư duy bình quân chủ nghĩa; khiến hành động, thay vào đó là các biện minh nhân danh cộng đồng hay sứ mệnh cao cả; kích thích người ta chạy theo lối sống xin xỏ, chạy chọt để hưởng đặc quyền đặc lợi, và quyền ban ơn huệ cho người khác, v.v…</p><p><strong>Mục lục:</strong></p><p>Lời nhà xuất bản</p><p>Lời giới thiệu cho ấn bản tiếng Việt</p><p>Lời giới thiệu (nhân dịp năm mươi năm xuất bản)</p><p>Ghi chú về lịch sử xuất bản</p><p>Lời tựa cho lần tái bản năm 1976</p><p>Lời tựa cho lần xuất bản bìa mềm năm 1956</p><p>Lời tựa cho lần xuất bản bìa mềm năm 1956</p><p>Lời tựa cho lần xuất bản năm 1944</p><p>Dẫn nhập</p><p>I. Con đường bị chối bỏ</p><p>II. Giấc mơ địa đàng</p><p>III. Chủ nghĩa cá nhân và chủ nghĩa tập thể</p><p>IV. Kế hoạch hoá là “tất yếu”?</p><p>V. Kế hoạch hoá và dân chủ</p><p>VI. Kế hoạch hoá và pháp trị</p><p>VII. Kiểm soát kinh tế và chế độ toàn trị</p><p>VIII. Ai là ai?</p><p>IX. An toàn và Tự do</p><p>X. Vì sao những kẻ xấu xa nhất lại leo cao nhất?</p><p>XI. Sự cáo chung của chân lí</p><p>XII. Cội nguồn tư tưởng của chủ nghĩa phát xít</p><p>XIII. Những người toàn trị giữa chúng ta</p><p>XIV. Điều kiện vật chất và mục đích lí tưởng</p><p>XV. Triển vọng của trật tự thế giới</p><p>XVI. Kết luận</p> </div>
